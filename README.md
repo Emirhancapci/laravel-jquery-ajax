@@ -64,4 +64,15 @@ Start the development server by running:
 php artisan serve
 ```
 
+### Project Screenshots
+
+Below are some screenshots showcasing the functionality and user interface of the project.
+
+<img src="https://github.com/user-attachments/assets/ddd89c28-2b4e-4a31-acb6-e90a78d90012" alt="image" width="400">
+
+<img src="https://github.com/user-attachments/assets/641a2c44-2799-412c-9cef-e92c36efb810" alt="image" width="400">
+
+<img src="https://github.com/user-attachments/assets/f81af224-e2a7-4a17-896d-a4e05d68b8e3" alt="image" width="400">
+
+<img src="https://github.com/user-attachments/assets/c3c5fb60-31aa-4a14-b2e3-2b78d9e11259" alt="image" width="400">
 
